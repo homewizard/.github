@@ -1,4 +1,4 @@
-# ![HomeWizard](https://github.com/homewizard/.github/assets/74970928/a8517254-2a62-41ec-b2fa-0673f5d81afd#gh-light-mode-only) ![HomeWizard](https://github.com/homewizard/.github/assets/74970928/d371ed02-1372-4f50-b746-90303fc79989#gh-dark-mode-only)
+# ![HomeWizard](assets/logo.png#gh-light-mode-only) ![HomeWizard](assets/logo-dark.png#gh-dark-mode-only)
 
 ## Krijg inzicht en bespaar.
 
