@@ -1,4 +1,4 @@
-# ![HomeWizard](assets/logo.png#gh-light-mode-only) ![HomeWizard](assets/logo-dark.png#gh-dark-mode-only)
+# ![HomeWizard](profile/assets/logo.png#gh-light-mode-only) ![HomeWizard](profile/assets/logo-dark.png#gh-dark-mode-only)
 
 ## Krijg inzicht en bespaar.
 
