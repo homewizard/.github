@@ -6,7 +6,7 @@ HomeWizard is hét bedrijf dat huishoudens inzicht geeft in hun stroom-, water- 
 
 [Onze producten](https://www.homewizard.com/nl/shop/)
 
-## Kom bij ons werken
+## Kom bij ons werken.
 Werk jij mee aan de toekomst van wonen en leven? Werken bij HomeWizard betekent niet alleen een baan, maar een kans om je talenten te ontwikkelen en te groeien in een snelgroeiende en innovatieve omgeving. Maak vanuit Noordwijk deel uit van de energiemanagementrevolutie en help mee een toekomst te bouwen waarin technologie ons leven elke dag makkelijker maakt.
 
 [Vacatures](https://www.homewizard.com/nl/vacatures/)
